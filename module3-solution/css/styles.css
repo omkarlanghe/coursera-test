@@ -1,0 +1,59 @@
+body {
+	font-size: 16px;
+	color: #FFFFFF;
+	font-family: 'Oxygen',sans-serif;
+	background-color:#ff8000;
+}
+
+/**header**/
+#header-nav{
+	background-color: #994c00;
+	border-radius: 0;
+	border:0;
+}
+
+#nav-list a {
+  color: #FFFFFF;
+  text-align: center;
+}
+
+#nav-list {
+	margin-top: 10px;
+}
+
+#nav-list a:hover {
+	background: #cc6600;
+}
+#nav-list a span {
+	font-size: 1.8em;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid #ff8000;
+}
+
+.navbar-header button.navbar-toggle {
+	clear: both;
+	margin-top: -42px;
+}
+.collapse {
+	margin-top: -60px;
+}
+
+.text-center {
+	font-size: 35px;
+}
+.jumbotron .text-center{
+	color: #994c00;
+	font-size: 30px;
+
+}
+
+.jumbotron {
+	color: #994c00;
+}
+.navbar-brand h1{
+	clear: both;
+	margin-top: -10px;
+	color: #FFFFFF;
+}
